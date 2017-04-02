@@ -1,2 +1,3 @@
 # hello-world
-first project
+first project on github. 
+final year Bsc Computer Science and IT student.
